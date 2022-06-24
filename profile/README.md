@@ -1,7 +1,4 @@
-<img width="986" alt="Screen Shot 2022-06-23 at 20 16 55" src="https://user-images.githubusercontent.com/108085752/175440990-ae7d9f5a-42f6-48ba-b996-59a1bad9c5a2.png">
-
-
-
+<img width="986" alt="DATACLYSMIC_README_GITHUB_2" src="https://user-images.githubusercontent.com/108085752/175441525-74d142f1-63fb-4804-858b-a74dab9f51b5.png">
 
 ## WECOME TO THIS ENTERPRICE
 
